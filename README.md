@@ -1,4 +1,4 @@
-Personal Translation Document Ja PDF
+Personal Translation Documents Ja PDF
 ================================
 This is a repository of translations for personal study.
 
