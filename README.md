@@ -1,5 +1,6 @@
 Personal Translation Document Ja PDF
 ================================
+This is a repository of translations for personal study.
 このリポジトリは、個人的学習のための翻訳物置き場です。
 
 ## 翻訳物
